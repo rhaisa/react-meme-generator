@@ -1,0 +1,8 @@
+{
+  "name": "react-meme-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rhaisa/react-meme-generator.git",
+  "author": "Rhaisa Alves <rhaisalouiseadm@gmail.com>",
+  "license": "MIT"
+}
