@@ -1,0 +1,49 @@
+.Button {
+  border: 1px solid lightgrey;
+  border-radius: 8px;
+  width: 80px;
+  height: 50px;
+  position: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Button-Text {
+  font-size: small;
+  margin-bottom: 10px;
+  font-style: italic;
+  color: gray;
+}
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
+/* // import './Button.css';
+
+
+
+
+/* export default function ButtonToolbar(Button) {
+  //   return (
+  //     <ButtonToolbar>
+  //       <Button variant="primary" size="lg" active>
+  //         Genete Meme
+  //       </Button>
+  //       <Button variant="secondary" size="lg" active>
+  //         Download Meme
+  //       </Button>
+  //     </ButtonToolbar>
+  //   );
+  // } */
